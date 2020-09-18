@@ -1,3 +1,13 @@
-# Welcome to my blog
+# Welcome to my profile.
 
-I'm glad you are here. I plan to talk about ...
+** Thanks for checking in. **
+I plan to add more additional content soon. 
+
+## Content Plan:
+
+* Picture (probably)
+* Additional text (probably)
+  * Colored Text (probably)
+  * etc. (probably)
+  
+As you can see, I am a "probably" person. I like to say probably all the times because I'm indecisive :>
