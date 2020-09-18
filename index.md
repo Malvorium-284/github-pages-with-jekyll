@@ -1,6 +1,6 @@
 # Welcome to my profile.
 
-** Thanks for checking in. **
+**Thanks for checking in.**
 I plan to add more additional content soon. 
 
 ## Content Plan:
